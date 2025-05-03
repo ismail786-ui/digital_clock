@@ -1,0 +1,1 @@
+A simple and functional digital clock built with HTML, CSS, and JavaScript. This project displays the current time in real-time, updating every second. It’s a great beginner-friendly project to understand how JavaScript can be used to interact with the DOM and handle time-based functions.
